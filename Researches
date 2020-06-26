@@ -1,4 +1,4 @@
-Researches:
+Week 1
 https://robloxapi.github.io/ref/class/UGCValidationService.html
 https://developer.roblox.com/en-us/api-reference/class/MeshPart
 https://devforum.roblox.com/t/how-to-get-the-part-selected/183151
@@ -12,3 +12,7 @@ Studio Plugins have access to.
 So then I looking to the security permissions for the codes to see if I can get around that without jailbreaking my studio (illegal), but
 it looks like the permission for that is used by the CoreCode, which is a permission that only the code for the engine has access to, and 
 the highest we have access to in plugins.
+
+Week 2
+https://www.youtube.com/watch?v=8Aj3-RcLjPI
+Found an interesting tutorial on how to make various Roblox Plugin Implementations, tested out a few of them in studio.

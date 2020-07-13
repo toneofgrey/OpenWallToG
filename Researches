@@ -20,3 +20,6 @@ Found an interesting tutorial on how to make various Roblox Plugin Implementatio
 
 Week 3
 Made a template of screen gui that fit what we want, still need to insert functionality. Need way to trigger the gui, can't have it just pop up.
+
+Week 4
+Redid everything using lua script, found out you need to use Instances.new() to create TextLabel object.

@@ -1,2 +1,2 @@
-# OpenWalls
-a roblox plugin for fitting meshes to bricks
+# OpenWalls ToG branch
+This branch will focus on the development of GUI for the OpenWalls plugin
